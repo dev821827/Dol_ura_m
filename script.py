@@ -1,9 +1,10 @@
 class Script(object):
 
-    START_MSG = """<b>Hey {} 😃,
+    START_MSG = """<b>Hey {},
 
-I'm Doluram! The Advanced Unlimited Filter Bot With Many Capabilities!
-There Is No Practical Limits For My Filtering Capacity.
+I'm Doluram 🖐🏻😛
+
+The Advanced Unlimited Filter Bot With Many Capabilities,
 
 Made By @RoyalKrrishna ❤️
 
