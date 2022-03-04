@@ -66,7 +66,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "Main Channel", url="https://t.me/iPopcornMovieGroup")
+                        "Second Group", url="https://t.me/DesiMoviesFactory")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
