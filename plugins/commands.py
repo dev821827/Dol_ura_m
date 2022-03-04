@@ -243,12 +243,7 @@ async def help(client, message):
                 [
                     InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
-                ],
-                [
-                    InlineKeyboardButton("Compass Bots", url="https://t.me/compass_botz"),
-                    InlineKeyboardButton("Developer", url="https://t.me/Dlaize")
                 ]
-            ]
         ),
         reply_to_message_id=message.message_id
     )
@@ -263,13 +258,8 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/dakshkohli23/Unlimited-Filter-Bot")
-                ],
-                [
-                    InlineKeyboardButton("BACK", callback_data="help_data"),
-                    InlineKeyboardButton("CLOSE", callback_data="close_data"),
-                ]                
-            ]
+                        "Main Channel", url="https://t.me/iP_Movies")
+                ]
         ),
         reply_to_message_id=message.message_id
     )
