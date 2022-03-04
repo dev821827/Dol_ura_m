@@ -1,9 +1,9 @@
 class Script(object):
 
-    START_MSG = """<b>Hey {},
+    START_MSG = """<b>Hey {} 😃,
 
 I'm an advanced unlimited filter bot with many capabilities!
-There is no practical limits for my filtering capacity 🐝
+There is no practical limits for my filtering capacity
 
 See <i>/help</i> for commands and more details.</b>
 """
@@ -11,7 +11,7 @@ See <i>/help</i> for commands and more details.</b>
 
     HELP_MSG = """
 🚨 Oh! You Need Help!
-<b> Add me 🐝 as Admin in your Group & Start Filtering!
+<b> Add me as Admin in your Group & Start Filtering!
 
 <b><u>Basic Commands</u></b>
 ➠ /start - Check if I'm alive! 🟢
@@ -37,18 +37,15 @@ See <i>/help</i> for commands and more details.</b>
 ➠ /info userid - Show User Information. Use '/info' as reply to some message for their details!
 
 
-<b>Made with Thunder ⚡ by ➜ <a href="https://telegram.dog/dlaize">Mr. Dlaize</a></b>
+<b>Made with ❤️ by ➜ <a href="https://t.me/RoyalKrrishna">Royal Krrishna</a></b>
 """
 
 
     ABOUT_MSG = """
 <b><u>About Me:</u></b>
-🏷️ Bot : Bee Unlimited Filter Bot
-🏷️ Creator : <a href="https://telegram.dog/dlaize"><b>Mr. Dlaize</b></a>
-🏷️ Language : <a href='https://python.org/'>Python3</a>
-🏷️ Library : <a href='https://docs.pyrogram.org/'>Pyrogram 1.2.0</a> 
-🏷️ Server : <a href='https://www.heroku.com/'>Heroku</a>
-🏷️ Channel : <a href="https://telegram.dog/compass_botz"><b>Compass Bot</b></a>
+🏷️ Bot : Doluram Bot 😛
+🏷️ Creator : <a href="https://t.me/RoyalKrrishna"><b>RoyalKrrishna</b></a>
+🏷️ Main Channel : <a href='https://t.me/iP_Movies'>iP Movies</a>
 
-📱 Suggestion & Feedback ➜ <a href="https://telegram.dog/dlaize"><b>Mr. Dlaize</b></a>
+📱 Suggestion & Feedback ➜ <a href="https://t.me/RoyalKrrishna"><b>Royal Krrishna</b></a>
 """
