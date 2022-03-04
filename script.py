@@ -50,5 +50,5 @@ See <i>/help</i> for commands and more details.</b>
 🏷️ Creator : <a href="https://t.me/RoyalKrrishna"><b>RoyalKrrishna</b></a>
 🏷️ Main Channel : <a href='https://t.me/iP_Movies'>iP Movies</a>
 
-📱 Suggestion & Feedback ➜ <a href="https://t.me/RoyalKrrishna"><b>Royal Krrishna</b></a>
+📱 Feedback ➜ <a href="https://t.me/RoyalKrrishna"><b>Royal Krrishna</b></a>
 """
