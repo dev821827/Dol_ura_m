@@ -47,14 +47,9 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
+                    InlineKeyboardButton("Our Group", url="https://t.me/iPopcornMovieGroup"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
-                [
-                    InlineKeyboardButton("Compass Bots", url="https://t.me/compass_botz"),
-                    InlineKeyboardButton("Developer", url="https://t.me/Dlaize")
-                ]
-            ]
         )
 
         await query.message.edit_text(
@@ -70,7 +65,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/dakshkohli23/Unlimited-Filter-Bot")
+                        "Main Channel", url="https://t.me/iPopcornMovieGroup")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
