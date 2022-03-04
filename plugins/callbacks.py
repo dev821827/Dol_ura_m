@@ -50,6 +50,7 @@ async def cb_handler(client, query):
                     InlineKeyboardButton("Our Group", url="https://t.me/iPopcornMovieGroup"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ]
+            [
         )
 
         await query.message.edit_text(
