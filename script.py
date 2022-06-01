@@ -2,11 +2,11 @@ class Script(object):
 
     START_MSG = """<b>Hey {},
 
-I'm Doluram 🖐🏻😛
+I'm THE MOVIE LAB 🖐🏻😛
 
 The Advanced Unlimited Filter Bot With Many Capabilities,
 
-Made By @RoyalKrrishna ❤️
+Made By @theroyaldev ❤️
 
 See <i>/help</i> for commands and more details.</b>
 """
@@ -46,9 +46,9 @@ See <i>/help</i> for commands and more details.</b>
 
     ABOUT_MSG = """
 <b><u>About Me:</u></b>
-🏷️ Bot : Doluram Bot 😛
-🏷️ Creator : <a href="https://t.me/RoyalKrrishna"><b>RoyalKrrishna</b></a>
-🏷️ Main Channel : <a href='https://t.me/iP_Movies'>iP Movies</a>
+🏷️ Bot : THE MOVIE LAB BOT 😛
+🏷️ Creator : <a href="https://t.me/theroyaldev"><b>theroyaldev</b></a>
+🏷️ Main Channel : <a href='https://t.me/themovielabs'>themovielabs</a>
 
-📱 Feedback ➜ <a href="https://t.me/RoyalKrrishna"><b>Royal Krrishna</b></a>
+📱 Feedback ➜ <a href="https://t.me/theroyaldev"><b>Dev Varshney</b></a>
 """
