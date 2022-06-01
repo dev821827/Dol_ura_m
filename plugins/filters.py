@@ -179,9 +179,9 @@ async def addfilter(client, message):
 async def get_all(client, message):
     
     chat_type = message.chat.type
-
+    userid = message.from_user.id
     if chat_type == "private":
-        userid = message.from_user.id
+        
         grpid = await active_connection(str(userid))
         if grpid is not None:
             grp_id = grpid
@@ -232,27 +232,6 @@ async def get_all(client, message):
         quote=True,
         parse_mode="md"
     )
-
-else:
-        cap = f"<b><i>Movie Name : {search}\nRequested By : {message.from_user.mention}\nGroup : {message.chat.title}</i></b>"
-    if imdb and imdb.get('poster'):
-        try:
-            hehe = await message.reply_photo(photo=imdb.get('poster'), caption=cap, reply_markup=InlineKeyboardMarkup(btn))
-            await asyncio.sleep(10)
-            await hehe.delete()            
-        except (MediaEmpty, PhotoInvalidDimensions, WebpageMediaEmpty):
-            pic = imdb.get('poster')
-            poster = pic.replace('.jpg', "._V1_UX360.jpg")
-            hmm = await message.reply_photo(photo=poster, caption=cap, reply_markup=InlineKeyboardMarkup(btn))
-            await asyncio.sleep(10)            
-        except Exception as e:
-            logger.exception(e)
-            fek = await message.reply_text(text=cap, disable_web_page_preview=True, reply_markup=InlineKeyboardMarkup(btn))
-            await asyncio.sleep(10)            
-    else:
-        fuk = await message.reply_text(text=cap, disable_web_page_preview=True, reply_markup=InlineKeyboardMarkup(btn))
-        await asyncio.sleep(10)
-        await fuk.delete()
         
 @Client.on_message(filters.command(Config.DELETE_FILTER_CMD))
 async def deletefilter(client, message):
