@@ -40,7 +40,7 @@ See <i>/help</i> for commands and more details.</b>
 ➠ /info userid - Show User Information. Use '/info' as reply to some message for their details!
 
 
-<b>Made with ❤️ by ➜ <a href="https://t.me/RoyalKrrishna">Royal Krrishna</a></b>
+<b>Made with ❤️ by ➜ <a href="https://t.me/theroyaldev">Dev varshney</a></b>
 """
 
 
