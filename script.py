@@ -40,15 +40,15 @@ See <i>/help</i> for commands and more details.</b>
 ➠ /info userid - Show User Information. Use '/info' as reply to some message for their details!
 
 
-<b>Made with ❤️ by ➜ <a href="https://t.me/theroyaldev">Dev varshney</a></b>
+<b>Made with ❤️ by ➜ <a href="https://t.me/theroyaldev">ROYAL DUDE</a></b>
 """
 
 
     ABOUT_MSG = """
 <b><u>About Me:</u></b>
-🏷️ Bot : THE MOVIE LAB BOT 😛
-🏷️ Creator : <a href="https://t.me/theroyaldev"><b>theroyaldev</b></a>
-🏷️ Main Channel : <a href='https://t.me/themovielabs'>themovielabs</a>
+🏷️ Bot : THE MOVIE LAB 😛
+🏷️ Creator : <a href="https://t.me/theroyaldev"><b>Royal Dude</b></a>
+🏷️ Main Channel : <a href='https://t.me/allmoviez02'>ALL MOVIE</a>
 
-📱 Feedback ➜ <a href="https://t.me/theroyaldev"><b>Dev Varshney</b></a>
+📱 Feedback ➜ <a href="https://t.me/theroyaldev"><b>Royal Dude</b></a>
 """
