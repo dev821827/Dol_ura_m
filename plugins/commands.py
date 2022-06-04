@@ -241,7 +241,7 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Our Group", url="https://t.me/iPopcornMovieGroup"),
+                    InlineKeyboardButton("Our Group", url="https://t.me/allmoviez02"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ]
             ],
