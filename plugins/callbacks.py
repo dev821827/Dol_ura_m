@@ -47,7 +47,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Our Group", url="https://t.me/iPopcornMovieGroup"),
+                    InlineKeyboardButton("Our Group", url="https://t.me/allmoviez02"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ]
             ]
@@ -66,7 +66,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "Second Group", url="https://t.me/DesiMoviesFactory")
+                        "Second Channel", url="https://t.me/allmoviesorg")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
