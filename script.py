@@ -2,11 +2,11 @@ class Script(object):
 
     START_MSG = """<b>Hey {},
 
-I'm THE MOVIE LAB 🖐🏻😛
+I'm TOXIC 🖐🏻😛
 
 The Advanced Unlimited Filter Bot With Many Capabilities,
 
-Made By @theroyaldev ❤️
+Made By @Toxiccabdobot ❤️
 
 See <i>/help</i> for commands and more details.</b>
 """
@@ -40,15 +40,15 @@ See <i>/help</i> for commands and more details.</b>
 ➠ /info userid - Show User Information. Use '/info' as reply to some message for their details!
 
 
-<b>Made with ❤️ by ➜ <a href="https://t.me/theroyaldev">ROYAL DUDE</a></b>
+<b>Made with ❤️ by ➜ <a href="https://t.me/Toxiccabdobot">TOXIC</a></b>
 """
 
 
     ABOUT_MSG = """
 <b><u>About Me:</u></b>
-🏷️ Bot : THE MOVIE LAB 😛
-🏷️ Creator : <a href="https://t.me/theroyaldev"><b>Royal Dude</b></a>
-🏷️ Main Channel : <a href='https://t.me/allmoviez02'>ALL MOVIE</a>
+🏷️ Bot : TOXIC 😛
+🏷️ Creator : <a href="https://t.me/Toxiccabdobot"><b>TOXIC</b></a>
+🏷️ Main Channel : <a href='https://t.me/+m7bb6vg5TWk0ZTdl'>MOVIE GROUP</a>
 
-📱 Feedback ➜ <a href="https://t.me/theroyaldev"><b>Royal Dude</b></a>
+📱 Feedback ➜ <a href="https://t.me/Toxiccabdobot"><b>TOXIC</b></a>
 """
